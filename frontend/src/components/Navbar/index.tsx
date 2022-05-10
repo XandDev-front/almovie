@@ -7,7 +7,7 @@ export function Navbar() {
       <nav className='container'>
         <div className='almovie-nav-content'>
           <h1>ALMovie</h1>
-          <a href="https://github.com/Xannd" >
+          <a href="https://github.com/Xannd" target="_blank">
             <div className='almovie-contact-container'>
               <GithubIcon />
               <p className='almovie-contact-link'>/Xannd</p>
